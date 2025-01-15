@@ -2,6 +2,14 @@
 Changelog for package ign_ros2_control_demos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix ackermann demo (`#470 <https://github.com/ros-controls/gz_ros2_control/issues/470>`_) (`#475 <https://github.com/ros-controls/gz_ros2_control/issues/475>`_)
+* Add a namespaced example (`#457 <https://github.com/ros-controls/gz_ros2_control/issues/457>`_) (`#460 <https://github.com/ros-controls/gz_ros2_control/issues/460>`_)
+* Update diff_drive controller parameters (`#462 <https://github.com/ros-controls/gz_ros2_control/issues/462>`_) (`#464 <https://github.com/ros-controls/gz_ros2_control/issues/464>`_)
+* Add Demos for SDF (`#427 <https://github.com/ros-controls/gz_ros2_control/issues/427>`_) (`#465 <https://github.com/ros-controls/gz_ros2_control/issues/465>`_)
+* Contributors: mergify[bot]
+
 1.2.9 (2024-12-11)
 ------------------
 * Add Mecanum vehicle example (`#451 <https://github.com/ros-controls/gz_ros2_control/issues/451>`_) (`#455 <https://github.com/ros-controls/gz_ros2_control/issues/455>`_)
