@@ -2,8 +2,8 @@
 Changelog for package ign_ros2_control_demos
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.4 (2025-01-15)
+------------------
 * Fix ackermann demo (`#470 <https://github.com/ros-controls/gz_ros2_control/issues/470>`_)
 * Update diff_drive controller parameters (`#462 <https://github.com/ros-controls/gz_ros2_control/issues/462>`_)
 * Add a namespaced example (`#457 <https://github.com/ros-controls/gz_ros2_control/issues/457>`_)

@@ -2,8 +2,8 @@
 Changelog for package ign_ros2_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.0.4 (2025-01-15)
+------------------
 * Fixed velocity controller (`#450 <https://github.com/ros-controls/gz_ros2_control/issues/450>`_)
 * Contributors: Alejandro Hernández Cordero
 
